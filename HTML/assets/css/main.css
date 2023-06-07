@@ -1503,7 +1503,7 @@ footer .bottom-footer .social-links {
     font-size: 18px;
 }
 .schedule-page .schedule-content .schp-list li .mkd-info {
-    padding: 41px 20px 35px;
+    padding: 41px 10px 35px;
     background: linear-gradient(180deg, #fdc830, #f37335);
     text-align: center;
     height: 100%;
@@ -2812,6 +2812,9 @@ footer .bottom-footer .social-links {
     margin-bottom: 20px;
     text-transform: capitalize;
     margin-bottom: 3px;
+}
+.sg-event h3:hover{
+    color: #007bff;
 }
 .progress-bar {
     transition-duration: 3s;

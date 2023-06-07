@@ -71,7 +71,7 @@
 
         });
 
-        // Blog carouse - blog.html
+        // Blog carousel - blog.html
         $('.blog-carousel').slick({
 
             slidesToShow: 1,

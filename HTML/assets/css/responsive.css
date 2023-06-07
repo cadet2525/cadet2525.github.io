@@ -279,6 +279,7 @@
     }
     .schedule-page .nav-tabs li {
         margin-right: 15px;
+        margin-bottom: 20px;
     }
     .schedule-mobile-content {
         display: block;
