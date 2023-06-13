@@ -556,7 +556,7 @@ header .navigation-bar nav ul ul ul {
 .about-us-section .about-sec {
     margin-bottom: 65px;
 }
-.about-us-section .about-sec .abt-col {
+.about-us-section .about-sec .abt-col{
     background-color: #fff;
     box-shadow: 0 0 10px rgba(21, 87, 153, 0.08);
     padding: 25px 20px 19px;
@@ -564,7 +564,7 @@ header .navigation-bar nav ul ul ul {
     transition: all 0.4s ease-in-out;
 }
 .about-us-section .about-sec .abt-col:hover {
-    box-shadow: 0 0 20px rgba(21, 87, 153, 0.09);
+    box-shadow: 0 0 20px rgba(8, 62, 116, 0.09);
 }
 .about-us-section .about-sec .abt-col > img {
     margin-bottom: 9px;
@@ -2758,6 +2758,9 @@ footer .bottom-footer .social-links {
     font-weight: 500;
     margin-bottom: 13px;
     text-transform: capitalize;
+}
+.event-single > h3:hover{
+    color: #007bff;
 }
 .event-single .mdp-map {
     margin-top: 26px;
